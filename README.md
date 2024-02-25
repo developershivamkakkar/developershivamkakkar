@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developershivamkakkar" alt="developershivamkakkar" /></a> </p>
 
-- 🌱 I’m currently learning **React JS**
-
 - 💬 Ask me about **HTML , CSS , JAVASCRIPT , BOOTSTRAP , LARAVEL**
 
 - 📫 How to reach me **officialshivamkakkar@gmail.com**
