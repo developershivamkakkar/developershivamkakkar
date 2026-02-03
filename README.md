@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SHIVAM KAKKAR</h1>
-<h3 align="center">A passionate backend developer with a love for coding and technology. 👨‍💻</h3>
+<h3 align="center">A passionate  Full Stack developer with a love for coding and technology. 👨‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developershivamkakkar&label=Profile%20views&color=0e75b6&style=flat" alt="developershivamkakkar" /> </p>
 
