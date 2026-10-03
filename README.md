@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developershivamkakkar" alt="developershivamkakkar" /></a> </p>
 
-- 💬 Ask me about **HTML , CSS , JAVASCRIPT , BOOTSTRAP ,REACT, LARAVEL, Tailwind , GIT, DOCKER ,TYPESCRIPT**
+- 💬 Ask me about **HTML , CSS , JAVASCRIPT , BOOTSTRAP ,REACT, LARAVEL, Tailwind , GIT, DOCKER ,TYPESCRIPT, NODE JS . EXPRESS JS **
 
 - 📫 How to reach me **officialshivamkakkar@gmail.com**
 
